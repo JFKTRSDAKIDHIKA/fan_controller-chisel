@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FanControllerTest, org.scalatest.tools.Framework$$anon$1@46cc2f4f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFanControllerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFanController[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should test pattern switching timing in different fan states *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  3 did not equal 2 (test.scala:32)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 13 seconds, 830 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	FanControllerTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

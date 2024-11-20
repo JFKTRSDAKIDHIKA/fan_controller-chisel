@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/ubuntu/.cache/scalacli/local-repo/bin/scala-cli/scala-cli",
+    "bsp",
+    "--json-options",
+    "/home/ubuntu/tmp/my-chisel-project/src/test/scala/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/home/ubuntu/tmp/my-chisel-project/src/test/scala/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/home/ubuntu/tmp/my-chisel-project/src/test/scala/.scala-build/ide-envs.json",
+    "/home/ubuntu/tmp/my-chisel-project/src/test/scala/test.scala"
+  ],
+  "version": "1.5.3",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
